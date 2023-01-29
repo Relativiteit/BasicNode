@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1",
+        "name": "Skateboardsdeck from DGK",
+        "description": "A sevenply skateboard made for true skateboarders it offers immensive snapp for 360 flips",
+        "price": 90
+    },
+    {
+        "id": "2",
+        "name": "Skateboardswheels from Spitfire",
+        "description": "Urathanewheel for skateboarding",
+        "price": 65
+    },
+    {
+        "id": "3",
+        "name": "Skateboardstrucks from Venture",
+        "description": "Great trucks for setting up feelble grinds in a bowl or just stable when doing a blunt to fakie",
+        "price": 90
+    }
+]
